@@ -1,6 +1,16 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+
+
+
+
+
+
+
+
 
 
 
@@ -472,6 +482,10 @@ h6,
 #menu-c .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header4-0 .mbr-section-lead {
+  color: #000000;
+  font-family: 'Raleway', sans-serif;
+}
 #header3-e .mbr-section-title,
 #header3-e .mbr-section-subtitle {
   text-align: center;
@@ -479,15 +493,10 @@ h6,
 #header3-e .mbr-section-title {
   text-align: left;
 }
-#header3-k .mbr-section-title,
-#header3-k .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-k .mbr-section-title {
+#content1-l P {
   text-align: left;
-}
-#header3-k .mbr-section-subtitle {
-  text-align: left;
+  font-family: 'Lora', serif;
+  color: #8c8c8c;
 }
 #features4-4 .card-subtitle {
   color: #bcbcbc;
@@ -496,10 +505,37 @@ h6,
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
+#features4-4 P {
+  text-align: center;
+  color: #8c8c8c;
+  font-family: 'Lora', serif;
+}
 #header3-d .mbr-section-title,
 #header3-d .mbr-section-subtitle {
   text-align: center;
 }
+#header3-d .mbr-section-subtitle SPAN {
+  font-family: 'Lora', serif;
+  color: #8c8c8c;
+}
+#msg-box1-g H3 {
+  text-align: left;
+}
+#msg-box1-g DIV {
+  font-family: 'Lora', serif;
+}
+#msg-box1-g H2 {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box1-g SPAN {
+  font-family: 'Lora', serif;
+}
 #form1-7 .form-control-label {
   color: #232323;
+}
+#form1-7 SPAN {
+  font-family: 'Lora', serif;
+}
+#contacts1-8 P {
+  font-family: 'Lora', serif;
 }
