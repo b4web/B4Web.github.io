@@ -476,6 +476,19 @@ h6,
 #header3-e .mbr-section-subtitle {
   text-align: center;
 }
+#header3-e .mbr-section-title {
+  text-align: left;
+}
+#header3-k .mbr-section-title,
+#header3-k .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-k .mbr-section-title {
+  text-align: left;
+}
+#header3-k .mbr-section-subtitle {
+  text-align: left;
+}
 #features4-4 .card-subtitle {
   color: #bcbcbc;
 }
