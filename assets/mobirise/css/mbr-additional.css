@@ -536,6 +536,9 @@ h6,
 #form1-7 SPAN {
   font-family: 'Lora', serif;
 }
+#form1-7 .btn {
+  font-size: 15px;
+}
 #contacts1-8 P {
   font-family: 'Lora', serif;
 }
