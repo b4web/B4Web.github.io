@@ -26,7 +26,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.4",
-    "uniqCompNum": 24,
+    "uniqCompNum": 25,
     "versionPublish": "4.6.4",
     "screenshot": "screenshot.png"
   },
@@ -395,7 +395,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Uno de nuestros primeros proyectos; desde el 2012 son<br>muchas las cervezas artesanas que hemos vendido ya.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://coldcoolbeer.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER MAS!</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://www.coldcoolbeer.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER MAS!</a> ",
                 "overlayOpacity": "0.4",
                 "overlayColor": "#3d8eb9"
               },
@@ -411,7 +411,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Complementos y joyas de autor. <br>Cuanto talento reunido en este Marketplace!",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://bebijouly.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER MAS!</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://www.bebijouly.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER MAS!</a> ",
                 "overlayOpacity": "0.4",
                 "overlayColor": "#3d8eb9"
               },
@@ -427,7 +427,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Moda y bolsos de Alta calidad, <br>reciclar y procurar por el medio ambiente..",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://riceandcarry.es\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER MAS!</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://www.riceandcarry.es\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER MAS!</a> ",
                 "overlayOpacity": "0.4",
                 "overlayColor": "#3d8eb9"
               }
@@ -446,8 +446,8 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
