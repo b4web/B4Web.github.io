@@ -234,7 +234,7 @@
             "showButtons": false,
             "iconsBgColor": "#f2f2f2",
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -377,8 +377,8 @@
           "_params": {
             "autoplay": true,
             "fullScreen": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "showBullets": true,
             "bgColor": "#fff",
             "timeout": "5",
@@ -438,7 +438,12 @@
             "Theme"
           ],
           "_name": "slider3",
-          "_anchor": "slider3-n"
+          "_anchor": "slider3-n",
+          "_styles": {
+            ".btn": {
+              "font-size": "15px"
+            }
+          }
         },
         {
           "_params": {
@@ -461,7 +466,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "nos apasiona ayudar a convertir visitantes en clientes",
+          "title": "Nos apasiona ayudar a convertir visitantes en clientes",
           "text": "<span style=\"font-style: normal;\">Creamos magníficos websites optimizados para conseguir la mejor experiencia cliente. Somos expertos en Shopify, una de las mejores plataforma SaaS para ecommerce del mercado</span>.<div><br></div>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE LIVE DEMO</a>",
           "_tags": [
@@ -582,8 +587,8 @@
               "size": 0
             }
           },
-          "text1": "<br>\nEmail: b4web.website@gmail.com<br><br>",
-          "text2": "<br>B4Web Copyright (c) 2018<br><br>",
+          "text1": "Email: b4web.website@gmail.com<br>B4Web Copyright (c) 2018<br>",
+          "text2": "<br><br><br>",
           "text3": "<br><br><br>",
           "_tags": [
             "Theme"

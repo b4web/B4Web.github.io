@@ -518,6 +518,9 @@ h6,
   font-family: 'Lora', serif;
   color: #8c8c8c;
 }
+#slider3-n .btn {
+  font-size: 15px;
+}
 #msg-box1-g H3 {
   text-align: left;
 }
