@@ -503,7 +503,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "&nbsp;¿cómo quieres que sea tu tienda online?",
+          "title": "&nbsp;¿Cómo quieres que sea tu tienda online?",
           "subtitle": "<span style=\"font-style: normal;\">Tu proyecto es el nuestro, tu confianza nuestra pasión, tu éxito nuestro objetivo</span><br>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">TU MANDAS!</a>",
           "form": {
