@@ -181,7 +181,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "title": "Cuentanos tu proyeto, tu presupuesto y te ayudamos a hacerlo realidad",
+          "title": "Cuéntanos tu proyecto, tu presupuesto y te ayudamos a hacerlo realidad",
           "meta": "",
           "_tags": [
             "Theme"
@@ -195,7 +195,7 @@
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
-          "text": "<p><br></p><p>Gestiona tu propia tienda online sin necesidad de conocer código. Toma el control de tu negocio y haz que crezca, todo en un solo lugar. Administra todos los procesos desde el marketing, los pagos y el envío. Aprovecha las poderosas herramientas que Shopify te pone a disposición y realiza tus estadisticas de venta, fideliza a tus clientes, recupera clientes perdidos, controla tu stock, gestiona tus promociones y campañas de descuento. <b>TU MANDAS!</b></p><p><br></p>",
+          "text": "<p><br></p><p>Gestiona tu propia tienda online sin necesidad de conocer código. Toma el control de tu negocio y haz que crezca, todo en un solo lugar. Administra todos los procesos desde el marketing, los pagos y el envío. Aprovecha las poderosas herramientas que Shopify te pone a disposición y realiza tus estadísticas de venta, fideliza a tus clientes, recupera clientes perdidos, controla tu stock, gestiona tus promociones y campañas de descuento. ¡TU MANDAS!</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -318,12 +318,12 @@
               "family": "et-line"
             }
           },
-          "title1": "Como lo hacemos?",
+          "title1": "¿Como lo hacemos?",
           "subtitle1": "",
-          "caption1": "Cuéntanos cual es tu proyeto, tu presupuesto y te ayudaremos guiándote en cada paso del camino.<br>Desarrollamos tu imagen coorporativa buscando siempre la mejor experiencia cliente, hasta el último detalle. Dinos cual es tu publico objetivo y nos ponemos en marcha. <br><br><br>",
-          "title2": "profesional, muy profesional",
+          "caption1": "Cuéntanos cuál es tu proyecto, tu presupuesto y te ayudaremos guiándote en cada paso del camino.\n<br>Desarrollamos tu imagen corporativa buscando siempre la mejor experiencia cliente, hasta el último detalle. Dinos cuál es tu público objetivo y nos ponemos en marcha.\n<br><br><br>",
+          "title2": "Profesional, muy profesional",
           "subtitle2": "",
-          "caption2": "La confianza es clave en la decisión última de compra de un cliente, nuestro objetivo es hacer de tu página una herramienta profesional, que transmita tus valores.&nbsp;<br>Te entregamos tu nuevo ecommerce llaves en mano. <br>Nos sentimos complices de nuestro trabajo y nuestro último objetivo es tu primera venta.&nbsp;<br>",
+          "caption2": "La confianza es clave en la decisión última de compra de un cliente, nuestro objetivo es hacer de tu página una herramienta profesional, que transmita tus valores. \n<br>Te entregamos tu nuevo ecommerce llaves en mano. \n<br>Nos sentimos cómplices de nuestro trabajo y nuestro último objetivo es tu primera venta.\n<br>.&nbsp;<br>",
           "title3": "Presupuesto cerrado",
           "subtitle3": "",
           "caption3": "Mandanos tus inquietudes y tus objetivos, te proponemos un presupuesto cerrado y ajustado a tus necesidades.",
@@ -462,7 +462,7 @@
             "overlayOpacity": 0.5
           },
           "title": "nos apasiona ayudar a convertir visitantes en clientes",
-          "text": "<span style=\"font-style: normal;\">Creamos magnificos websites optimizados para conseguir la mejor experiencia cliente. Somos expertos en Shopify, una de las mejores plataforma SaaS para ecommerce del mercado</span>.<div><br></div>",
+          "text": "<span style=\"font-style: normal;\">Creamos magníficos websites optimizados para conseguir la mejor experiencia cliente. Somos expertos en Shopify, una de las mejores plataforma SaaS para ecommerce del mercado</span>.<div><br></div>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE LIVE DEMO</a>",
           "_tags": [
             "Theme"
@@ -503,7 +503,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "&nbsp;¿como quieres que sea tu tienda online?",
+          "title": "&nbsp;¿cómo quieres que sea tu tienda online?",
           "subtitle": "<span style=\"font-style: normal;\">Tu proyecto es el nuestro, tu confianza nuestra pasión, tu éxito nuestro objetivo</span><br>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">TU MANDAS!</a>",
           "form": {
@@ -556,7 +556,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#28324e",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
